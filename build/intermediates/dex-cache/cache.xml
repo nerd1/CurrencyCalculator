@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/dieterbiedermann/StudioProjects/CurrencyCalculator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/dieterbiedermann/StudioProjects/CurrencyCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_94b8b625a8a6b14926b2ce09108630a06685ebe1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dieterbiedermann/StudioProjects/CurrencyCalculator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e9fdfbb2126765bfa3a47a9b9d256c9930fdb06">
+        <dex dex="/Users/dieterbiedermann/StudioProjects/CurrencyCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6502a61da39f0605376bc58bc1e42ac6d276a55d/classes.dex" />
+    </item>
+
+</items>
